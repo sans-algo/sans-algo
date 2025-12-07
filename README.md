@@ -86,19 +86,11 @@ const sanskar = {
 
 ---
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sans-algo&theme=tokyonight&no-frame=true&row=1" /> </p>
+📈 Coding Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-algo&theme=tokyo-night&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sans-algo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-algo&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
 
 ---
 
