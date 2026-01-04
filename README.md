@@ -73,18 +73,7 @@ const sanskar = {
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sans-algo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sans-algo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-algo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
----
 
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sans-algo&theme=tokyonight&no-frame=true&row=1" /> </p>
